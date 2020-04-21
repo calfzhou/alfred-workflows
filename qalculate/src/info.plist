@@ -78,7 +78,7 @@
 				<integer>102</integer>
 				<key>script</key>
 				<string>PATH=/usr/local/bin:"$PATH"
-qalculate-gtk</string>
+qalculate-gtk "$raw_query"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -226,7 +226,7 @@ qalculate-gtk</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>

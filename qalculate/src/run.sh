@@ -19,6 +19,9 @@ function dequote() {
 
 cat << EOB
 {
+    "variables": {
+        "raw_query": "$(dequote $query)",
+    },
     "items": [{
         "uid": "$(dequote $query)",
         "type": "file",
