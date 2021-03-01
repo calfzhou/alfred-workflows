@@ -1,3 +1,6 @@
 [submodule "_ref/YoudaoTranslate"]
 	path = _ref/YoudaoTranslate
 	url = https://github.com/wensonsmith/YoudaoTranslate.git
+[submodule "_ref/AlfredSwitchWindows"]
+	path = _ref/AlfredSwitchWindows
+	url = https://github.com/mandrigin/AlfredSwitchWindows.git
