@@ -4,3 +4,6 @@
 [submodule "_ref/AlfredSwitchWindows"]
 	path = _ref/AlfredSwitchWindows
 	url = https://github.com/mandrigin/AlfredSwitchWindows.git
+[submodule "_ref/alfred-pangu-workflow"]
+	path = _ref/alfred-pangu-workflow
+	url = https://github.com/DeppWang/alfred-pangu-workflow.git
