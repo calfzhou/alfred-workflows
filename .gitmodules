@@ -7,3 +7,6 @@
 [submodule "_ref/alfred-pangu-workflow"]
 	path = _ref/alfred-pangu-workflow
 	url = https://github.com/DeppWang/alfred-pangu-workflow.git
+[submodule "_ref/alfred-emoji"]
+	path = _ref/alfred-emoji
+	url = https://github.com/jsumners/alfred-emoji.git
